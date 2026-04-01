@@ -4,9 +4,10 @@ The study is based on a balanced cohort comprising chickens with natural leg dis
 
 The analytical workflow includes:
 
-Weighted correlation network analysis（WGCNA）
-Estimation of genetic components (heritability, h²)
-Metabolite GWAS (mGWAS) to identify candidate loci
-Colocalization (coloc) analysis between mQTLs and molecular QTLs (molQTLs) from Chicken Sex GTEx
-Mendelian randomization (MR) analysis integrating mQTLs with complex traits from Chicken GTEx
+- Weighted correlation network analysis（WGCNA）
+- Estimation of genetic components (heritability, h²)
+- Metabolite GWAS (mGWAS) to identify candidate loci
+- Colocalization (coloc) analysis between mQTLs and molecular QTLs (molQTLs) from Chicken Sex GTEx
+- Mendelian randomization (MR) analysis integrating mQTLs with complex traits from Chicken GTEx
+
 This repository provides scripts to reproduce the main computational analyses described in the manuscript.
